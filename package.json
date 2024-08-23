@@ -1,5 +1,6 @@
 {
   "name": "clerk-auth",
+  "homepage": "https://clerk-auth-wd3e.onrender.com/auth",
   "private": true,
   "version": "0.0.0",
   "type": "module",
