@@ -1,10 +1,8 @@
 import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
 import Home from "./pages/home";
-import Auth from "./pages/auth";
+import Auth from "./pages//auth/Index";
 import ProtectedRoute from "./pages/auth/ProtectedRoute";
 import Welcome from "./pages/Welcome";
-import { Suspense } from "react";
-import Loading from "./pages/Loading";
 
 function App() {
   return (
